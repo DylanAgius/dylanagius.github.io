@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Dylan Agius"
+  name             : "Dylan Agius"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Melbourne, Australia"
@@ -186,7 +186,7 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /dylanagius.github.io/:path/
+    permalink: /:dylanagius.github.io/:path/
 
 
 # Defaults
