@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dylan Agius"
+  name             : "Dr Dylan Agius"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computational materials scientist developing tools to improve the way we develop new materials"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
