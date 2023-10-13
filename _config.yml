@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Computational Materials"
+locale                   : "en-AUS"
+title                    : #"Computational Materials Scientist"
 title_separator          : "-"
-name                     : &name "Dylan Agius"
-description              : &description "personal description"
+name                     : &name "Dr Dylan Agius"
+description              : &description "Computational materials scientist"
 url                      : https://dylanagius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DylanAgius/dylanagius.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
