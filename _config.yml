@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computational Materials"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Dylan Agius"
-description              : &description "personal description"
+name                     : &name "Dr Dylan Agius"
+description              : &description "Computational materials scientist"
 url                      : https://dylanagius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DylanAgius/dylanagius.github.io"
