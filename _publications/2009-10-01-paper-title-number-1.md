@@ -8,6 +8,8 @@ excerpt: '* Type-III stresses were implemented within crystal plasticity as an i
 
 * Simulation results showed including pre-test type-III stresses had no marked affect.'
 
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+
 
 date: 2023-06-15
 venue: 'Journal 1'
