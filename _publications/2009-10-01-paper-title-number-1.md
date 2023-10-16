@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 
 
 
-date: 2023-15-06
+date: 2023-06-15
 
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0921509323005208'
 
