@@ -4,9 +4,10 @@ title: "The inclusion and role of micro mechanical residual stress on deformatio
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/msa.png'>"
+excerpt: "<img src='/images/msa.png'>"
 
 date: 2023-06-15
+venue: 'Materials Science & Engineering: A'
 
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0921509323005208'
 
