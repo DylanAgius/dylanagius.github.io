@@ -10,6 +10,6 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S03080161220025
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-excerpt: "<img src='/images/msa.png'>"
+<img src='/images/msa.png'>
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538)
