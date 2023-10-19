@@ -11,8 +11,8 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S03080161220025
 
 ---
 Graphical abstract:
+
 <img src='/images/msa.png'>
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
