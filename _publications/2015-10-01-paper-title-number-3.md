@@ -3,6 +3,8 @@ title: "Predicting residual stress in a 316L electron beam weld joint incorporat
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 
+excerpt: "<img src='/images/intpip.png'>"
+
 date: 2023-02-01
 venue: 'International Journal of Pressure Vessels and Piping'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538'
