@@ -1,14 +1,15 @@
 ---
-title: "Predicting residual stress in a 316L electron beam weld joint incorporating plastic properties derived from a crystal plasticity finite element model"
+title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2023-02-01
-venue: 'International Journal of Pressure Vessels and Piping'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538'
-
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Graphical abstract:
 
 
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538)
+<img src='/images/msa.png'>
+
+[Download paper here](https://www.sciencbs/pii/S0308016122002538http://academicpages.github.io/files/paper2.pdf" <i>Journal 1</i>. 1(2).
