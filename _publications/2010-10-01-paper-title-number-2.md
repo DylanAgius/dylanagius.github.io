@@ -8,8 +8,7 @@ venue: 'International Journal of Pressure Vessels and Piping'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538'
 
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Graphical abstract:
 
-<img src='/images/msa.png'>
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538)
