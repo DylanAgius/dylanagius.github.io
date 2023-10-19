@@ -10,9 +10,9 @@ venue: 'International Journal of Pressure Vessels and Piping'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538'
 
 ---
-###Graphical abstract:
+Graphical abstract:
 
-<img src='/images/intpipgraph.png'>
+<img src='/images/weld.png'>
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0308016122002538)
 
